@@ -2,7 +2,7 @@
  
 Wox launcher plugin that controls the mpv media player.
 
-### Installion
+### Installation
 
 Extract the files to your plugin directory, the location depends on the Wox version you are using.
 
