@@ -16,4 +16,4 @@ Furthermore add the following line to your mpv.conf:
 input-ipc-server = \\.\pipe\mpvsocket
 ```
 
-Start Wox and type mpv, Wox might take time for indexing in the beginning.
+Restart Wox and type mpv, Wox might take time for indexing in the beginning.
