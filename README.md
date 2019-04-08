@@ -1,6 +1,6 @@
 # wox-mpv-plugin
  
-Wox plugin that controls the mpv media player
+Wox launcher plugin that controls the mpv media player.
 
 ### Installion
 
