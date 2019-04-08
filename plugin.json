@@ -1,0 +1,12 @@
+{
+    "ID":"B0E5F94224A6459FBA4725D56FB24759",
+    "ActionKeyword":"mpv",
+    "Name":"mpv",
+    "Description":"Controls the mpv media player",
+    "Author":"stax76",
+    "Version":"0.1.0",
+    "Language":"csharp",
+    "Website":"https://github.com/stax76/wox-mpv-plugin",
+    "IcoPath": "mpv.ico",
+    "ExecuteFileName":"Wox.Plugin.mpv.dll"
+}
