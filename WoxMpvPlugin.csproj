@@ -64,6 +64,9 @@
     <Content Include="mpv.ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <None Include="README.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="Resources\input.conf.txt" />
   </ItemGroup>
   <ItemGroup>
