@@ -4,7 +4,6 @@ using System.IO.Pipes;
 using System.Security.Principal;
 using System.Collections.Generic;
 using System.Linq;
-using System.Diagnostics;
 
 namespace Wox.Plugin.mpv
 {
@@ -17,13 +16,6 @@ namespace Wox.Plugin.mpv
         public List<Result> Query(Query query)
         {
             List<Result> results = new List<Result>();
-
-            bool isRunning = false;
-            foreach (Process proc in Process.GetProcesses())
-                if (proc.ProcessName == "mpv" || proc.ProcessName == "mpvnet")
-                    isRunning = true;
-            if (!isRunning)
-                return results;
 
             foreach (var pair in mpvDic)
             {

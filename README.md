@@ -17,3 +17,9 @@ input-ipc-server = \\.\pipe\mpvsocket
 ```
 
 Restart Wox and type mpv, Wox might take time for indexing in the beginning.
+
+### Usage
+
+Start mpv(.net).
+
+Type mpv in Wox and search, select and execute mpv commands.

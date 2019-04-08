@@ -4,7 +4,7 @@
     "Name":"mpv",
     "Description":"Controls the mpv media player",
     "Author":"stax76",
-    "Version":"1.1.0",
+    "Version":"1.2.0",
     "Language":"csharp",
     "Website":"https://github.com/stax76/wox-mpv-plugin",
     "IcoPath": "mpv.ico",
